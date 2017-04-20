@@ -1,0 +1,26 @@
+{
+  "name": "webpack_learning",
+  "version": "1.0.0",
+  "description": "Learning Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorip/LearningWebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorip/LearningWebpack/issues"
+  },
+  "homepage": "https://github.com/hectorip/LearningWebpack#readme",
+  "dependencies": {
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.1.0-beta.22"
+  }
+}
